@@ -153,10 +153,10 @@ button {
 }
 
 .card {
-  width: 32%;
+  width: 31%;
   height: 100%;
   padding: 50px;
-  margin: 5px;
+  margin: 7px;
   display: flex;
   flex-direction: column;
   justify-content: space-between; 
